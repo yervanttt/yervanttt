@@ -7,13 +7,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://yourwebsite.com/" title="Website"><img width="32px" alt="Website" src="https://img.icons8.com/ios/50/8B5CF6/internet.png"/></a>
+  <a href="https://yervant.dev/" title="Website"><img width="32px" alt="Website" src="https://img.icons8.com/ios/50/8B5CF6/internet.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://yourwebsite.com/resume.pdf" title="Resume"><img width="32px" alt="Resume" src="https://img.icons8.com/ios/50/8B5CF6/resume.png"/></a>
+  <a href="https://yervant.dev/resume.pdf" title="Resume"><img width="32px" alt="Resume" src="https://img.icons8.com/ios/50/8B5CF6/resume.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/yervanttt" title="LinkedIn"><img width="32px" alt="LinkedIn" src="https://img.icons8.com/ios/50/8B5CF6/linkedin.png"/></a>
+  <a href="https://linkedin.com/in/yervantkenni" title="LinkedIn"><img width="32px" alt="LinkedIn" src="https://img.icons8.com/ios/50/8B5CF6/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="yervantkenni@gmial.com" title="Email"><img width="32px" alt="Email" src="https://img.icons8.com/ios/50/8B5CF6/mail.png"/></a>
+  <a href="yervantkenni@gmail.com" title="Email"><img width="32px" alt="Email" src="https://img.icons8.com/ios/50/8B5CF6/mail.png"/></a>
 </p>
 
 <br/>
